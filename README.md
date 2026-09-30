@@ -204,8 +204,8 @@ The application initially displays:
 
               👤
 
-        Name: SWARUPA S
-        USN: 25MCAR0137
+        Name: Devraath Joshi
+        USN: 25MCAR0091
 
      [ Enter your name ]
 
@@ -268,16 +268,16 @@ screenshots/testcase1.png
 ### Example Input
 
 ```text
-Name: Swarupa
-Gender: Female
+Name: Devraath Joshi
+Gender: male
 Terms: Checked
 ```
 
 ### Expected Output
 
 ```text
-Name: Swarupa
-Gender: Female
+Name: Devraath Joshi
+Gender: male
 Terms: Agreed
 ```
 
@@ -319,8 +319,8 @@ screenshots/testcase3.png
 
 # 👩‍🎓 Student Details
 
-**Name:** SWARUPA S
-**USN:** 25MCAR0137
+**Name:** Devraath Joshi
+**USN:** 25MCAR0091
 
 ---
 
